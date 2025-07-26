@@ -1,0 +1,2 @@
+# Agentic-RAG-Chatbot-for-Multi-Format-Document-QA-using-Model-Context-Protocol-MCP-
+A Streamlit-based intelligent chatbot for multi-format document question answering using Retrieval-Augmented Generation (RAG) and Google's Gemini API. Powered by the Model Context Protocol (MCP), it ensures accurate, grounded responses by extracting and referencing content directly from PDFs and other supported file types.
